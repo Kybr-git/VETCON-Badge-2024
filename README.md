@@ -43,11 +43,11 @@ Functions:
 13. Insert your SD card into the badge behind the LCD screen.  Make sure you push the card all the way in, the top of the SD card should be roughly flush with the top of the "2024" text.
 
 ## Step 2: Solder the power pads
-1. On the back side of the badge, there are 2 empty holes under the ESP32 chip.  If you look inside, you should be able to see the two small power pads on the inside of each hole.
+1. On the back side of the badge, there are 2 empty holes under the ESP32 chip.  If you look inside, you should be able to see the two small power pads, one at the bottom of each hole on the inner half.  They are not centered on the hole, this is so you can solder them to the wall of the hole easier.  
 
 ![image](https://github.com/user-attachments/assets/eacb89b8-361e-44ed-95ed-ffb2cc8128af)
 
-3. CAREFULLY solder these pads to the wall of the holes.  This is tricky, go slow and make sure the pad gets hot.  You need to make sure the solder gets onto the pad at the bottom, don't just fill the top of the hole with the solder.  If you're struggling with this step, we can solder them for you at next year's con (we planned to do this ourselves, alas, customs had other plans for us).  
+3. CAREFULLY solder these pads to the wall of the holes.  This is tricky, go slow and make sure the pad gets hot.  You need to make sure the solder gets onto the pad at the bottom, don't just fill the top of the hole with the solder.  If you're struggling with this step, we can solder them for you at next year's con (we planned to do this ourselves at the con, alas, customs had other plans for us).  
 
 4. Insert the battery (the bump goes on the right as you're looking at the battery holder, provided you're not holding it upside-down...)
 
