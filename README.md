@@ -27,17 +27,17 @@ Functions:
 
 ![image](https://github.com/user-attachments/assets/b203753b-07ee-4740-a2c7-501e758477a4)
 
-6. Open platformio.ini in the Firware folder
-7. Plug the badge's esp32 in to your computer via usb port
-8. Hit the build button (checkmark icon)
+6. Navigate to the extracted folder, inside the Firmware folder, point it at the platformio.ini file
+7. Plug the badge's ESP32 into your computer via the usb-c port.  PlatformIO should automatically recognize the badge's ESP32.
+8. In PlatformIO, hit the build button (checkmark icon)
 
 ![image](https://github.com/user-attachments/assets/04bb9985-9fb0-4736-979d-6df2109658b8)
 
-9. Hit the upload button (right arrow icon), your badge should now flash
+9. In PlatformIO, hit the upload button (right arrow icon).  That's it - your badge should now flash.  DO NOT UNPLUG DURING FLASH!!!
 
 ![image](https://github.com/user-attachments/assets/f357828b-7623-410c-9d59-cb33a187adee)
 
-10. Plug in your SD card to your computer
+10. Now that the firmware is flashed we need to configure the SD card.  Plug in your SD card to your computer.
 11. IF NEEDED: format the card FAT32
 12. Copy all the GIFs from the "GIFs" folder to the root directory of the SD card.  Do NOT create a folder on the card.
 13. Insert your SD card into the badge behind the LCD screen.  Make sure you push the card all the way in, the top of the SD card should be roughly flush with the top of the "2024" text.
@@ -47,7 +47,7 @@ Functions:
 
 ![image](https://github.com/user-attachments/assets/eacb89b8-361e-44ed-95ed-ffb2cc8128af)
 
-3. CAREFULLY solder these pads to the holes.  This is tricky, go slow and make sure the pad gets hot.  You need to make sure the solder gets onto the pad at the bottom, don't just fill the top of the hole with the solder.
+3. CAREFULLY solder these pads to the wall of the holes.  This is tricky, go slow and make sure the pad gets hot.  You need to make sure the solder gets onto the pad at the bottom, don't just fill the top of the hole with the solder.  If you're struggling with this step, we can solder them for you at next year's con (we planned to do this ourselves, alas, customs had other plans for us).  
 
 4. Insert the battery (the bump goes on the right as you're looking at the battery holder, provided you're not holding it upside-down...)
 
