@@ -13,7 +13,7 @@ Functions:
 ## Step 1: Compile and Flash
 
 1. Install Visual Studio Code on your computer (free)
-2. Open Visual Studio Code and install the PlatformIO plugin
+2. Open Visual Studio Code and install the PlatformIO IDE plugin 
 
 ![image](https://github.com/user-attachments/assets/01458e41-9ad7-4f2a-a918-1484ab1f5019)
 
