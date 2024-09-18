@@ -14,20 +14,26 @@ Functions:
 
 1. Install Visual Studio Code on your computer (free)
 2. Open Visual Studio Code and install the PlatformIO plugin
+
 ![image](https://github.com/user-attachments/assets/01458e41-9ad7-4f2a-a918-1484ab1f5019)
 
 3. Download the firmware from this page as a .zip
+
 ![image](https://github.com/user-attachments/assets/f9c7940c-5e46-4893-8ce6-20c0fb7a7248)
 
 4. Extract all
 5. In Visual Studio Code, select the PlatformIO icon and hit the "Open Project" button
+
 ![image](https://github.com/user-attachments/assets/b203753b-07ee-4740-a2c7-501e758477a4)
+
 6. Open platformio.ini in the Firware folder
 7. Plug the badge's esp32 in to your computer via usb port
 8. Hit the build button (checkmark icon)
+
 ![image](https://github.com/user-attachments/assets/04bb9985-9fb0-4736-979d-6df2109658b8)
 
 9. Hit the upload button (right arrow icon), your badge should now flash
+
 ![image](https://github.com/user-attachments/assets/f357828b-7623-410c-9d59-cb33a187adee)
 
 10. Plug in your SD card to your computer
@@ -37,6 +43,7 @@ Functions:
 
 ## Step 2: Solder the power pads
 1. On the back side of the badge, there are 2 empty holes under the ESP32 chip.  If you look inside, you should be able to see the two small power pads on the inside of each hole.
+
 ![image](https://github.com/user-attachments/assets/eacb89b8-361e-44ed-95ed-ffb2cc8128af)
 
 3. CAREFULLY solder these pads to the holes.  This is tricky, go slow and make sure the pad gets hot.  You need to make sure the solder gets onto the pad at the bottom, don't just fill the top of the hole with the solder.
