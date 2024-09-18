@@ -10,6 +10,10 @@ Functions:
 2. Puzzle
 3. About Screen
 
+Simple enough!  To use this badge in bling mode, select GIF Player, pick your favorite service, and the GIFs will start playing.
+If you participate in the challenge, you can unlock more GIFs.  For the challenge, visit https://vetcon.group/dc32/
+You can also upload your own GIFs to the badge, more on that later.
+
 ## Step 1: Compile and Flash
 
 1. Install Visual Studio Code on your computer (free)
