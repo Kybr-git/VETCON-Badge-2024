@@ -19,7 +19,8 @@ Functions:
 
 3. Download the firmware from this page as a .zip
 
-![image](https://github.com/user-attachments/assets/f9c7940c-5e46-4893-8ce6-20c0fb7a7248)
+![image](https://github.com/user-attachments/assets/ecd72e5b-8424-4fb9-a81e-9e916e193757)
+
 
 4. Extract all
 5. In Visual Studio Code, select the PlatformIO icon and hit the "Open Project" button
